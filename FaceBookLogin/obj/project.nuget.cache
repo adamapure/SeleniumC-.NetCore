@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "roiJM9BckPUTf+dDM8hzVShnxB0MIMdq4ST6KPyO3jYEgfGT7Eb64MzRCCejgp9Gh67t61q7t+HBuYmkqM0wRw==",
+  "dgSpecHash": "qwkXmP9BJBbGYvaMqqEaPoI8hShkWNvcTd5hn1sXBjYFGFcmtjX7hD/Wf1byPY+a80WsgsOFbGuJRrvtzG/XxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FaceBookLogin\\FaceBookLogin\\FaceBookLogin.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SeleniumC-.NetCore\\FaceBookLogin\\FaceBookLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

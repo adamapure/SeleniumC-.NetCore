@@ -24,7 +24,7 @@ namespace FaceBookLogin
             //  driver.FindElement(By.XPath("//input[@name='email']")).SendKeys("8605227616");
             //  driver.FindElement(By.XPath("//input[@name='pass']")).SendKeys("Chetu@0707");
             // driver.FindElement(By.XPath("//button[@name='login']")).Click();
-            // driver.FindElement(By.CssSelector("#login_link > div._xkt > a")).Click();
+            // driver.FindElement(By.CssSelector("#login_link > div._xkt > a")).Click()
             IWebElement createnewAccount = driver.FindElement(By.CssSelector("#u_0_0_eI"));
             //  IWebElement element = driver.FindElement(By.Id("u_0_0_eI"));
             //  IWebElement element = driver.FindElement(By.XPath("//a[@id='u_0_0_eI']"));

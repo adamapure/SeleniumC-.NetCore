@@ -6968,11 +6968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\FaceBookLogin\\FaceBookLogin\\FaceBookLogin.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\SeleniumC-.NetCore\\FaceBookLogin\\FaceBookLogin.csproj",
       "projectName": "FaceBookLogin",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\FaceBookLogin\\FaceBookLogin\\FaceBookLogin.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SeleniumC-.NetCore\\FaceBookLogin\\FaceBookLogin.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\FaceBookLogin\\FaceBookLogin\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\SeleniumC-.NetCore\\FaceBookLogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
